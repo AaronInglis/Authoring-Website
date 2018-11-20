@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=KoHo:200,400,600');
+
+h1{
+  font-family: 'KoHo', sans-serif;
+}
+h2{
+  font-family: 'KoHo', sans-serif;
+}
+h3{
+  font-family: 'KoHo', sans-serif;
+}
+p{
+  font-family: 'KoHo', sans-serif;
+}
+li{
+  display: block;
+  font-family: 'KoHo', sans-serif;
+  text-align: left;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #161616;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: #FFFCE8;
+  font-family: 'KoHo', sans-serif;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #3E363F;
+  text-decoration: underline;
+}
+
+nav h3 a{
+  color: #FFFCE8;
+}
+nav h3 a:hover {
+  color: #EFE5B2;
+}
+#MainContent{
+  background-color: #EFE5B2;
+  width: 80%;
+  float: right;
+  height: 400px;
+}
+#SideContent{
+  background-color: #534440;
+  color: #FFFCE8;
+  width: 20%;
+  float: left;
+  height: 400px;
+}
+
+#footerSection{
+  background-color: #3D0814;
+  color: #FFFCE8;
+  font-family: 'KoHo', sans-serif;
+  height: 406px;
+  text-align: left;
+}
+.pageTitle{
+  padding: 0px 20px 0px 20px;
+}
+.textBox{
+  padding: 0px 20px 0px 20px;
+}
+.homePhotos{
+  padding: 20px 40px 0px 20px;
+}
+.projectTextBox1{
+  padding: 0px 20px 0px 20px;
+  width: 30%;
+  float: left;
+}
+.projectTextBox2{
+  padding: 0px 20px 0px 20px;
+  width: 20%;
+  float: left;
+}
+.projectPhotos{
+  padding: 20px 20px 0px 20px;
+  width: 40%;
+  float: left;
+}
+.CVtextBox{
+  padding: 0px 20px 0px 20px;
+  float: left;
+  width: 30%;
+}
+.CVphotos{
+  padding: 180px 0px 0px 0px;
+  float: right;
+}
+.socialIcons{
+  padding: 0px 0px 40px 40px;
+  float: left;
+  width: 10%
+}
+.socialLinks{
+  padding: 0px 20px 0px 20px;
+  float: left;
+}
+.contactTextBox{
+  padding: 0px 20px 0px 20px;
+  float: left;
+  width: 25%;
+}
+.contactPhoto{
+  padding: 20px 20px 40px 40px;
+  float: right;
+}
